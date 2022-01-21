@@ -1,5 +1,5 @@
-# ProjetoDIOPlaylist
-Proposta de Projeto .NET - Playlist
+# Digital Innovation One - Projeto .NET
 
-Projeto desenvolvido a partir das aulas do Decola Tech 2ª Edição na Digital Innovation One
-Playlist para adicionar músicas.
+## Criando uma APP de cadastro em memória
+
+Aplicativo em Console de uma Playlist de Músicas
